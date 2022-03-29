@@ -1,1 +1,1 @@
-//prompt.ml%2f@⒕₨
+//prompt.ml%2f@ᄒ.ws/✌
