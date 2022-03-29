@@ -1,1 +1,1 @@
-//prompt.ml%2f@ᄒ.ws/✌
+<script>prompt(1)</script>
